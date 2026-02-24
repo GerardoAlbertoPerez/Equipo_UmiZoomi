@@ -1,5 +1,5 @@
 # Equipo_UmiZoomi
 
-Gerardo Alberto Pérez Parra
-Sergio Ivan Cruz Ibarra 
-Luis Yhosue Lujan Lemus
+Gerardo Alberto Pérez Parra 251451
+Sergio Ivan Cruz Ibarra 251263
+Luis Yhosue Lujan Lemus 250476
